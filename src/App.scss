@@ -86,11 +86,14 @@ header {
 .title {
   font-size: 10rem;
   text-align: center;
-  width: 1920px;
+  width: 100%;
   margin: 0 auto;
   color: #fff;
   span {
     display: block;
+  }
+  @media (max-width: 1440px) {
+    font-size: 6rem;
   }
 }
 
