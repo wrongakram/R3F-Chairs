@@ -1,0 +1,527 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 15848,
+      "max": [27.423549652099609, 26.716119766235352, 27.371980667114258],
+      "min": [-27.544450759887695, -12.901969909667969, -26.074390411376953],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 190176,
+      "componentType": 5126,
+      "count": 15848,
+      "max": [1, 0.99999988079071045, 0.99999862909317017],
+      "min": [-0.99999982118606567, -1, -0.99999761581420898],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 15848,
+      "max": [1, 0.99998223781585693, 0.99999988079071045, 1],
+      "min": [-1, -0.99999791383743286, -0.99999874830245972, -1],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 15848,
+      "max": [0.99860507249832153, 0.99949997663497925],
+      "min": [0.00050000002374872565, 0.00050000002374872565],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 126784,
+      "componentType": 5126,
+      "count": 15848,
+      "max": [6.939033031463623, 6.9401679039001465],
+      "min": [0.0035000001080334187, 0.0035000001080334187],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 89016,
+      "max": [15847],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 380352,
+      "componentType": 5126,
+      "count": 438,
+      "max": [11.553720474243164, 20.854400634765625, -11.993459701538086],
+      "min": [-11.649809837341309, 11.725729942321777, -16.526979446411133],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 385608,
+      "componentType": 5126,
+      "count": 438,
+      "max": [0.99998509883880615, 0.99355369806289673, 0.9947248101234436],
+      "min": [-0.99998414516448975, -0.99906319379806519, -0.71402257680892944],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 253568,
+      "componentType": 5126,
+      "count": 438,
+      "max": [0.9999956488609314, 0.89123517274856567, 0.99919527769088745, 1],
+      "min": [
+        -0.53433305025100708,
+        -0.89072668552398682,
+        -0.99993276596069336,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 253568,
+      "componentType": 5126,
+      "count": 438,
+      "max": [0.78924661874771118, 0.4034389853477478],
+      "min": [0.0054818121716380119, 0.00050000002374872565],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 257072,
+      "componentType": 5126,
+      "count": 438,
+      "max": [0.95374768972396851, 0.96903771162033081],
+      "min": [0.033345829695463181, 0.026710260659456253],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 356064,
+      "componentType": 5125,
+      "count": 2304,
+      "max": [437],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 390864,
+      "componentType": 5126,
+      "count": 498,
+      "max": [19.405750274658203, -12.511989593505859, 23.106470108032227],
+      "min": [-19.514320373535156, -27.406200408935547, -14.514030456542969],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 396840,
+      "componentType": 5126,
+      "count": 498,
+      "max": [0.99455803632736206, 0.14086520671844482, 0.99794274568557739],
+      "min": [-0.99455803632736206, -1, -0.99794274568557739],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 260576,
+      "componentType": 5126,
+      "count": 498,
+      "max": [1, 0.086018666625022888, 0.9999346137046814, 1],
+      "min": [
+        -0.99988174438476562,
+        -0.086039416491985321,
+        -0.99993455410003662,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 260576,
+      "componentType": 5126,
+      "count": 498,
+      "max": [0.99007618427276611, 0.60382258892059326],
+      "min": [0.042978379875421524, 0.17984519898891449],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 264560,
+      "componentType": 5126,
+      "count": 498,
+      "max": [6.9965000152587891, 6.8200559616088867],
+      "min": [2.5460550785064697, 2.0650310516357422],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 365280,
+      "componentType": 5125,
+      "count": 1200,
+      "max": [497],
+      "min": [0],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 402816,
+      "componentType": 5126,
+      "count": 4,
+      "max": [167.02890014648438, 167.02890014648438, 0],
+      "min": [-167.02890014648438, -167.02890014648438, 0],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 402864,
+      "componentType": 5126,
+      "count": 4,
+      "max": [0, 0, 1],
+      "min": [0, 0, 1],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 268544,
+      "componentType": 5126,
+      "count": 4,
+      "max": [1, 2.3841872121010965e-7, 0, 1],
+      "min": [1, 1.7881399116959074e-7, 0, 1],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 268544,
+      "componentType": 5126,
+      "count": 4,
+      "max": [1, 1],
+      "min": [2.98022992950564e-8, 2.98022992950564e-8],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 370080,
+      "componentType": 5125,
+      "count": 6,
+      "max": [3],
+      "min": [0],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "MADE.COM (https://sketchfab.com/made-it)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ritchie-armchair-lime-green-bd67645d7a0243f6a169279a8b6f6124",
+      "title": "Ritchie Armchair, Lime Green"
+    },
+    "generator": "Sketchfab-4.45.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 370104,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 268576,
+      "byteOffset": 370104,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 402912,
+      "byteOffset": 638680,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 268608,
+      "byteOffset": 1041592,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1310200,
+      "uri": "armchairGreen.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "texturesGreenCompressed/PEARL_GREY_baseColor-min.jpeg"
+    },
+    {
+      "uri": "texturesGreenCompressed/FLOOR_baseColor-min.png"
+    },
+    {
+      "uri": "texturesGreenCompressed/EnvironmentAmbientLight_baseColor-min.jpeg"
+    },
+    {
+      "uri": "texturesGreenCompressed/LEGS_baseColor-min.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "FLOOR",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0, 0, 0, 1],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "PEARL_GREY",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [1, 1, 1, 1],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.013910061,
+        "roughnessFactor": 0.94073932930000004
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "EnvironmentAmbientLight",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [1, 1, 1, 1],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [0, 0, 0],
+      "name": "LEGS",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [1, 1, 1, 1],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.270007622
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "PEARL_GREY",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "RAINBOW_BUTTONS",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "LEGS",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 15,
+            "TEXCOORD_1": 16
+          },
+          "indices": 17,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "FLOOR",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18,
+            "TANGENT": 20,
+            "TEXCOORD_0": 21
+          },
+          "indices": 22,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [1],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [-0.70710678118654746, -0, -0, 0.70710678118654757]
+    },
+    {
+      "children": [2],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [3, 8, 10],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [4],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -1.6292100000000001e-7,
+        1,
+        0,
+        0,
+        -1,
+        -1.6292100000000001e-7,
+        0,
+        0,
+        0,
+        0.1086651,
+        1
+      ],
+      "name": "Ritchie_Armchair_RainbowButtons"
+    },
+    {
+      "children": [5, 6, 7],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.06045151,
+        27.408429999999999,
+        -0.64879949999999997,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "mesh": 0,
+      "name": "PEARL_GREY"
+    },
+    {
+      "mesh": 1,
+      "name": "RAINBOW_BUTTONS"
+    },
+    {
+      "mesh": 2,
+      "name": "LEGS"
+    },
+    {
+      "children": [9],
+      "name": "Plane001"
+    },
+    {
+      "mesh": 3,
+      "name": "FLOOR"
+    },
+    {
+      "children": [11],
+      "name": "EnvironmentAmbientLight"
+    },
+    {
+      "name": "EnvironmentAmbientLight"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [0]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
