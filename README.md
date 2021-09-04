@@ -1,1 +1,1 @@
-Preview: https://distracted-hugle-7e7d06.netlify.app/
+Preview: https://3dchairs.netlify.app/
